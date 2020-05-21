@@ -8,7 +8,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = 'Palindrome detector'
   spec.description   = 'Learn Enough Ruby palindrome detector'
-  spec.homepage      = 'https://github.com/eclectic-coding/ruby_eclectic_palindrome'
+  spec.homepage      = 'https://rubygems.org/eclectic/ruby_eclectic_palindrome'
   spec.license       = 'MIT'
   spec.required_ruby_version = Gem::Requirement.new('>= 2.3.0')
 
